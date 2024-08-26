@@ -35,7 +35,7 @@ CREATE TABLE dbo.clientes(
 	CREATE TABLE dbo.categorias(
 	idcategoria int primary key ,
 	nombre varchar(100) ,
-	descripcion varchar(200) ,
+	descripcion varchar(200) 
 )
 
 	CREATE TABLE dbo.empleados(
